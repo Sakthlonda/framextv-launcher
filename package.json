@@ -1,0 +1,10 @@
+
+{
+  "name": "framextv-launcher",
+  "version": "1.0.0",
+  "description": "FrameX TV launcher for Samsung Tizen",
+  "packageType": "app",
+  "appName": "FrameX TV",
+  "appPath": "app/index.html",
+  "keys": []
+}
